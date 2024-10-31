@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="scss/style.css" />
+    <title>Drag-Drop | js</title>
+  </head>
+  <body>
+    <div class="drag-board">
+      <div class="drag-board-content">
+        <div class="square white">
+          <img
+            src="images/king.png"
+            alt="king"
+            loading="lazy"
+            id="king"
+            class="chess-piese"
+            draggable="true"
+          />
+        </div>
+        <div class="square black"></div>
+        <div class="square white"></div>
+      </div>
+      <p class="info">....</p>
+    </div>
+    <script src="js/app.js"></script>
+  </body>
+</html>
