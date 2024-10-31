@@ -22,9 +22,4 @@ Welcome to the **Drag and Drop Chess** project! This project demonstrates the im
 
 - A modern web browser (Chrome, Firefox, Safari, etc.)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/drag-and-drop-chess.git
-   ```
+``
